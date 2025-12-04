@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カミナリベイベー",
+  "base_artist": "鶴",
+  "createdAt": "2025-12-04T15:29:56.703812Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カミナリベイベー",
+      "artist": "鶴",
+      "has_synced": false,
+      "path": "select/pl_01_カミナリベイベー_鶴.txt"
+    }
+  ]
+}
